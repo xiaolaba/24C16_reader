@@ -30,10 +30,11 @@ Arduino based, read 24C16, dump as HEX and printable ASCII, and C-code array rea
 
 ![xiaolaba_24C16_reader_ATmega168_16MHz.JPG](xiaolaba_24C16_reader_ATmega168_16MHz.JPG)  
 
-## How to uses
-connect Arduino Nano to PC, open terminal program, 115200baud, send command 'r'
+## How to uses  
+connect Arduino Nano to PC, open terminal program, 115200baud, send command 'r'  
 
-library used, modified, https://github.com/yazug/EEPROM24C04_16, no fork, but local copy
+## library used, modified, 
+https://github.com/yazug/EEPROM24C04_16, no fork, but local copy
 
 ## Source code  
 ![24C16_reader.ino](24C16_reader.ino)  
