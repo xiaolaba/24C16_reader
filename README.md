@@ -36,7 +36,11 @@ library used, modified, https://github.com/yazug/EEPROM24C04_16, no fork, but lo
 ## hex
 
 ## dump examples
+![LG_42LE5500DA_IC8100_24C16.txt](LG_42LE5500DA_IC8100_24C16.txt)
+![LG_42LE5500DA_IC8401_24C02.txt](LG_42LE5500DA_IC8401_24C02.txt)
+![RAM_24C02.txt](RAM_24C02.txt)  
+
 
 ## modified library
-Eeprom24C04_16.cpp  
-Eeprom24C04_16.h
+![Eeprom24C04_16.cpp](Eeprom24C04_16.cpp)  
+![Eeprom24C04_16.h](Eeprom24C04_16.h)
