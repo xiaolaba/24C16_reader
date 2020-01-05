@@ -31,3 +31,12 @@ result,
 
 library used, modified, https://github.com/yazug/EEPROM24C04_16, no fork, but local copy
 
+
+
+hex
+
+dump examples
+
+##modified library
+Eeprom24C04_16.cpp  
+Eeprom24C04_16.h
