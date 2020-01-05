@@ -26,6 +26,10 @@ Arduino based, read 24C16, dump as HEX and printable ASCII, and C-code array rea
  */
 ```
 
+## wiring, testing  
+![xiaolaba_24C16_reader.JPG](xiaolaba_24C16_reader.JPG)  
+  
+  
 ## Result,  
 
 ![xiaolaba_24C16_reader_ATmega168_16MHz.JPG](xiaolaba_24C16_reader_ATmega168_16MHz.JPG)  
