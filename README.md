@@ -33,11 +33,13 @@ library used, modified, https://github.com/yazug/EEPROM24C04_16, no fork, but lo
 
 
 
-## hex
+## hex  
+![24C16_reader_ATmega168_16MHz.hex](24C16_reader_ATmega168_16MHz.hex)  
+![24C16_reader_ATmega168_16MHz_bootloader.hex](24C16_reader_ATmega168_16MHz_bootloader.hex)
 
-## dump examples
-![LG_42LE5500DA_IC8100_24C16.txt](LG_42LE5500DA_IC8100_24C16.txt)
-![LG_42LE5500DA_IC8401_24C02.txt](LG_42LE5500DA_IC8401_24C02.txt)
+## dump examples  
+![LG_42LE5500DA_IC8100_24C16.txt](LG_42LE5500DA_IC8100_24C16.txt)  
+![LG_42LE5500DA_IC8401_24C02.txt](LG_42LE5500DA_IC8401_24C02.txt)  
 ![RAM_24C02.txt](RAM_24C02.txt)  
 
 
