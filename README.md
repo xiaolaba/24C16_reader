@@ -34,7 +34,7 @@ Arduino based, read 24C16, dump as HEX and printable ASCII, and C-code array rea
 library used, modified, https://github.com/yazug/EEPROM24C04_16, no fork, but local copy
 
 ## Source code  
-![xiaolaba_eeprom_read.ino](xiaolaba_eeprom_read.ino)  
+![24C16_reader.ino](24C16_reader.ino)  
 
 
 ## hex  
